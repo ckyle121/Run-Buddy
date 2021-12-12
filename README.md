@@ -1,4 +1,4 @@
-# Run Buddy Inc. 
+# Run Buddy, Inc 
 ## Purpose
 A website that offers fitness training services.
 
@@ -18,3 +18,5 @@ The image below shows the homepage of Run Buddy when users first visit the websi
 
 ## Contribution
 Made by Caroline Kyle 
+
+### ©️2021 Run Buddy, Inc 
